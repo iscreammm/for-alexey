@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "title": "string",
+      "items": [
+        {
+          "name": "",
+          "link": "",
+          "subitems": [
+            {
+              "title": "",
+              "link": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
