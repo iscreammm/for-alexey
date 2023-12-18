@@ -6,6 +6,8 @@ const printArgs = () => {
 }
 
 printArgs('Привет', 'мой', 'мир', {lengt: 2}); 
+printArgs('Привет', 'мой', 'мир', {lengt: 2}); 
+printArgs('Привет', 'мой', 'мир', {lengt: 2}); 
 
 
 /* true + false
